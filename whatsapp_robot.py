@@ -2,9 +2,9 @@
 
 # imports
 from selenium import webdriver
-import selenium
+
 # initing 
-driver = webdriver.Chrome()
+driver = webdriver.Firefox()
 driver.get('https://web.whatsapp.com/')
 # start coding 
 name = input('Enter Name : ')
@@ -17,6 +17,11 @@ input('Enter Anything . . .')
 
 # xpath relative
 user = driver.find_element_by_xpath('//span[@title = "{}"]'.format(name))
-user.click()
+user.click
 # massage box selection 
 msg_box = driver.find_element_by_class_name('_2_1wd')
+# loop for send massages 
+for i in range(count):
+    msg_box.send_keys(msg)
+    btn = driver.find_elements_by_class_name('_1E0Oz')
+    btn.click()

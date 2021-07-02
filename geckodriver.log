@@ -1,0 +1,71 @@
+1625244650242	geckodriver	INFO	Listening on 127.0.0.1:5018
+1625244653188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aliakbar\\AppData\\Local\\Temp\\rust_mozprofileyPl40j"
+1625244659592	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aliakbar\\AppData\\Local\\Temp\\rust_mozprofileyPl40j\\search.json.mozlz4", (void 0)))
+1625244671315	Marionette	INFO	Listening on port 5027
+1625244671682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1625244793448	Marionette	INFO	Stopped listening on port 5027
+te" "-profile" "C:\\Users\\aliakbar\\AppData\\Local\\Temp\\rust_mozprofileoDVUfn"
+1625244783375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aliakbar\\AppData\\Local\\Temp\\rust_mozprofileoDVUfn\\search.json.mozlz4", (void 0)))
+1625244791693	Marionette	INFO	Listening on port 5148
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1625244792431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1625244894973	Marionette	INFO	Stopped listening on port 5148
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625244897357	geckodriver	INFO	Listening on 127.0.0.1:5293
+1625244900330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aliakbar\\AppData\\Local\\Temp\\rust_mozprofileKE0eOM"
+1625244902527	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aliakbar\\AppData\\Local\\Temp\\rust_mozprofileKE0eOM\\search.json.mozlz4", (void 0)))
+1625244907195	Marionette	INFO	Listening on port 5303
+1625244908599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1947: TypeError: currentPanel is undefined
+console.warn: "Inspector destroyed while executing onReflow callback"
+1625245039441	Marionette	INFO	Stopped listening on port 5303
+1625245164521	geckodriver	INFO	Listening on 127.0.0.1:5595
+1625245167735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aliakbar\\AppData\\Local\\Temp\\rust_mozprofile1b2ssP"
+1625245173069	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aliakbar\\AppData\\Local\\Temp\\rust_mozprofile1b2ssP\\search.json.mozlz4", (void 0)))
+1625245179794	Marionette	INFO	Listening on port 5604
+1625245179877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+1625245245308	Marionette	INFO	Stopped listening on port 5604
+1625245319571	geckodriver	INFO	Listening on 127.0.0.1:5719
+1625245322584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aliakbar\\AppData\\Local\\Temp\\rust_mozprofilejTE2FC"
+1625245323471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aliakbar\\AppData\\Local\\Temp\\rust_mozprofilejTE2FC\\search.json.mozlz4", (void 0)))
+1625245327787	Marionette	INFO	Listening on port 5727
+1625245328213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1625245389334	Marionette	INFO	Stopped listening on port 5727
+1625245405176	geckodriver	INFO	Listening on 127.0.0.1:5817
+1625245408099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aliakbar\\AppData\\Local\\Temp\\rust_mozprofilezRsV58"
+1625245409981	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aliakbar\\AppData\\Local\\Temp\\rust_mozprofilezRsV58\\search.json.mozlz4", (void 0)))
+1625245413673	Marionette	INFO	Listening on port 5825
+1625245414332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\aliakbar\AppData\Local\Temp\rust_mozprofilezRsV58\protections.sqlite
+1625245463578	Marionette	INFO	Stopped listening on port 5825
