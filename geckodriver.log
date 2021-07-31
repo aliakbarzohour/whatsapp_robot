@@ -69,3 +69,15 @@ JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.j
 JavaScript warning: https://web.whatsapp.com/bootstrap_qr.e002978cf4688a3eaf75.js, line 19: unreachable code after return statement
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\aliakbar\AppData\Local\Temp\rust_mozprofilezRsV58\protections.sqlite
 1625245463578	Marionette	INFO	Stopped listening on port 5825
+1627717346652	geckodriver	INFO	Listening on 127.0.0.1:6297
+1627717349769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aliakbar\\AppData\\Local\\Temp\\rust_mozprofile9a7i01"
+1627717356853	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aliakbar\\AppData\\Local\\Temp\\rust_mozprofile9a7i01\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Parent 3168, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627717383503	Marionette	INFO	Listening on port 6305
+1627717384864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.f61502d6311fd24214d7.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.f61502d6311fd24214d7.js, line 19: unreachable code after return statement
+1627717458794	Marionette	INFO	Stopped listening on port 6305
