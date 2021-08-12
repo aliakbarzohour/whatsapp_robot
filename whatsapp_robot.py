@@ -17,11 +17,11 @@ input('Enter Anything . . .')
 
 # xpath relative
 user = driver.find_element_by_xpath('//span[@title = "{}"]'.format(name))
-user.click
+user.click()
 # massage box selection 
-msg_box = driver.find_element_by_class_name('_2_1wd')
+msg_box = driver.find_element_by_class_name('_13NKt ')
 # loop for send massages 
 for i in range(count):
     msg_box.send_keys(msg)
-    btn = driver.find_elements_by_class_name('_1E0Oz')
+    btn = driver.find_elements_by_class_name('_4sWnG')
     btn.click()
