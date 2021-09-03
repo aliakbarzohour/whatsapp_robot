@@ -3,7 +3,7 @@
 ![maxresdefault](https://user-images.githubusercontent.com/71524940/124308159-b3158a80-db1d-11eb-87de-3ef5266b3287.jpg)
 
 -----------------------------------
-## WhatsApp robot with Python
+## WhatsApp robot built with :
 
 > python 3.9
 
@@ -12,5 +12,5 @@
 > web driver
 
 -----------------------------------
-## چرا ربات واتساپ ؟؟؟
-### ما انسان ها همیشه کار های تکراری در شبکه های اجتماعی انجام میدیم مثل تبریک روز های خاص ، حالا با ربات میتونیم اون کار ها رو اتوماتیک کنیم تا زحمتمون کم بشه .
+## Why WhatsApp robot?
+### We humans always do repetitive tasks on social media, such as congratulations on special days, now with a robot we can do those tasks automatically to reduce our pain .
